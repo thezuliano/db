@@ -1,22 +1,24 @@
-[
-  {
-    "imgUrl": "https://image.shutterstock.com/z/stock-photo-pair-of-white-sneakers-isolated-on-white-background-sport-shoes-712448377.jpg",
-    "name": "Sport Shoes",
-    "price": 110
-  },
-  {
-    "imgUrl": "https://image.shutterstock.com/z/stock-photo-vintage-red-shoes-on-white-background-92008067.jpg",
-    "name": "Red SNEAKER",
-    "price": 91
-  },
-  {
-    "imgUrl": "https://image.shutterstock.com/z/stock-photo-pink-and-black-sport-woman-shoes-isolated-on-white-background-709418083.jpg",
-    "name": "Sport Shoes Women",
-    "price": 94
-  },
-  {
-    "imgUrl": "https://image.shutterstock.com/z/stock-photo-children-s-autumn-or-winter-fashion-boots-isolated-on-white-background-708900334.jpg",
-    "name": "Winter boots children",
-    "price": 143
-  }
-]
+{
+  "results" : [
+    {
+      "imgUrl": "https://image.shutterstock.com/z/stock-photo-pair-of-white-sneakers-isolated-on-white-background-sport-shoes-712448377.jpg",
+      "name": "Sport Shoes",
+      "price": 110
+    },
+    {
+      "imgUrl": "https://image.shutterstock.com/z/stock-photo-vintage-red-shoes-on-white-background-92008067.jpg",
+      "name": "Red SNEAKER",
+      "price": 91
+    },
+    {
+      "imgUrl": "https://image.shutterstock.com/z/stock-photo-pink-and-black-sport-woman-shoes-isolated-on-white-background-709418083.jpg",
+      "name": "Sport Shoes Women",
+      "price": 94
+    },
+    {
+      "imgUrl": "https://image.shutterstock.com/z/stock-photo-children-s-autumn-or-winter-fashion-boots-isolated-on-white-background-708900334.jpg",
+      "name": "Winter boots children",
+      "price": 143
+    }
+  ]
+}
